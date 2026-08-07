@@ -126,6 +126,9 @@ Community-driven IOC collections for malware C2s, botnets, ransomware, and malic
 - **RansomLook** — https://www.ransomlook.io/groups  
   Ransomware group profiles and leak tracking.
 
+- **MalwareIntel** — https://malwareintel.es  
+  Free threat intelligence platform with 1.7M+ IOCs, 5,500+ Sigma detection rules, malware family profiles with MITRE ATT&CK TTPs, and downloadable detection packages.
+
 - **MISP Project** — https://www.misp-project.org  
   Threat intel sharing platform used globally.
 
