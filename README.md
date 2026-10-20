@@ -9,6 +9,7 @@ This collection is designed to make investigation work easier by keeping high-va
 
 ## Table of Contents
 - [Network Scanning & Exposure Mapping](#network-scanning--exposure-mapping)
+- [Internet Cyber Health Indexes](#internet-cyber-health-indexes)
 - [IP, ASN & Geolocation Intelligence](#ip-asn--geolocation-intelligence)
 - [Malware Analysis & Sandboxes](#malware-analysis--sandboxes)
 - [Threat Feeds & IOC Sources](#threat-feeds--ioc-sources)
@@ -50,6 +51,14 @@ Tools that help identify exposed services, discover internet-facing infrastructu
 
 - **Rapid7 Project Sonar** — https://opendata.rapid7.com/sonar.fdns_v2/  
   Open DNS and scanning datasets.
+
+---
+
+## Internet Cyber Health Indexes
+Free dashboards and indexes that aggregate signals from multiple scanning and intelligence sources into a composite score of internet-wide security health.
+
+- **ICHI — Internet Cyber Health Index** — https://ichi.global  
+  Free, source-transparent daily health barometer of the internet. Aggregates vulnerability pressure (CISA KEV), exploitation telemetry (Shodan, Censys), malware infrastructure (abuse.ch), ransomware activity, and threat actor signals into a single 0–100 score. Includes alerts RSS feed at `/api/alerts` and methodology documentation.
 
 ---
 
